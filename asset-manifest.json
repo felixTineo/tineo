@@ -6,14 +6,14 @@
     "runtime-main.js": "/tineo/static/js/runtime-main.9fa9fdac.js",
     "runtime-main.js.map": "/tineo/static/js/runtime-main.9fa9fdac.js.map",
     "static/css/2.53ef695e.chunk.css": "/tineo/static/css/2.53ef695e.chunk.css",
-    "static/js/2.9534e9d7.chunk.js": "/tineo/static/js/2.9534e9d7.chunk.js",
-    "static/js/2.9534e9d7.chunk.js.map": "/tineo/static/js/2.9534e9d7.chunk.js.map",
+    "static/js/2.783feb77.chunk.js": "/tineo/static/js/2.783feb77.chunk.js",
+    "static/js/2.783feb77.chunk.js.map": "/tineo/static/js/2.783feb77.chunk.js.map",
     "index.html": "/tineo/index.html",
-    "precache-manifest.fbcc35d4b612a3412dc8f3d39f0cbc99.js": "/tineo/precache-manifest.fbcc35d4b612a3412dc8f3d39f0cbc99.js",
+    "precache-manifest.be8df3f6bbcb2190ec2be0ce5831a21b.js": "/tineo/precache-manifest.be8df3f6bbcb2190ec2be0ce5831a21b.js",
     "service-worker.js": "/tineo/service-worker.js",
     "static/css/2.53ef695e.chunk.css.map": "/tineo/static/css/2.53ef695e.chunk.css.map",
     "static/css/main.dc591d3d.chunk.css.map": "/tineo/static/css/main.dc591d3d.chunk.css.map",
-    "static/js/2.9534e9d7.chunk.js.LICENSE.txt": "/tineo/static/js/2.9534e9d7.chunk.js.LICENSE.txt",
+    "static/js/2.783feb77.chunk.js.LICENSE.txt": "/tineo/static/js/2.783feb77.chunk.js.LICENSE.txt",
     "static/media/about.jpg": "/tineo/static/media/about.29f61e7e.jpg",
     "static/media/amazonaws.df9d1a62.svg": "/tineo/static/media/amazonaws.df9d1a62.svg",
     "static/media/contact.jpg": "/tineo/static/media/contact.64c43439.jpg",
@@ -67,7 +67,7 @@
   "entrypoints": [
     "static/js/runtime-main.9fa9fdac.js",
     "static/css/2.53ef695e.chunk.css",
-    "static/js/2.9534e9d7.chunk.js",
+    "static/js/2.783feb77.chunk.js",
     "static/css/main.dc591d3d.chunk.css",
     "static/js/main.68edeb83.chunk.js"
   ]

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tineo/precache-manifest.fbcc35d4b612a3412dc8f3d39f0cbc99.js"
+  "/tineo/precache-manifest.be8df3f6bbcb2190ec2be0ce5831a21b.js"
 );
 
 self.addEventListener('message', (event) => {
